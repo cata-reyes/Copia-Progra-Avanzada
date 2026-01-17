@@ -1,0 +1,9 @@
+#carpetas a ignorar
+config/
+data/
+tests_publicos/
+
+#archivos a ignorar
+enunciado.pdf
+README_inicial.md
+visualizador.pyc

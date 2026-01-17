@@ -1,0 +1,7 @@
+#carpetas a ignorar
+data/
+tests_publicos/
+
+#archivos a ignorar
+Enunciado.pdf
+utilidades.pyc
